@@ -135,6 +135,7 @@ var startGame = function() {
       window.alert("You've lost your robot in battle.");
     }
   };
+  
   /*SHOP Function */
 var shop = function() {
     // ask player what they'd like to do
